@@ -1,6 +1,6 @@
 ## 📦 ProductManagementAPI
 
-A simple **Product Management REST API** built using **Node.js**, **Express**, and **MongoDB**.  
+A simple **Product Management REST API** built using **Node.js** and **Express** 
 This API allows you to create, read, update and delete product data — useful for dashboards, e-commerce projects, and backend learning.
 
 ---
@@ -22,8 +22,6 @@ This API allows you to create, read, update and delete product data — useful f
 |----------|--------|
 | **Node.js** | JavaScript runtime |
 | **Express.js** | Web framework for routing / API handling |
-| **MongoDB** | NoSQL database |
-| **Mongoose** *(if used)* | ODM for MongoDB |
 | **dotenv** | Environment variable management |
 
 ---
